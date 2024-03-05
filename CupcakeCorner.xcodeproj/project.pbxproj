@@ -14,6 +14,7 @@
 		7F51EFDB2B8381AC00D0E70D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F51EFDA2B8381AC00D0E70D /* ContentView.swift */; };
 		7F51EFDD2B8381AE00D0E70D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F51EFDC2B8381AE00D0E70D /* Assets.xcassets */; };
 		7F51EFE02B8381AE00D0E70D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F51EFDF2B8381AE00D0E70D /* Preview Assets.xcassets */; };
+		7FE07D1B2B9727E30046E582 /* String-EmptyChecking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FE07D1A2B9727E30046E582 /* String-EmptyChecking.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		7F51EFDA2B8381AC00D0E70D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7F51EFDC2B8381AE00D0E70D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F51EFDF2B8381AE00D0E70D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7FE07D1A2B9727E30046E582 /* String-EmptyChecking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "String-EmptyChecking.swift"; path = "Data/String-EmptyChecking.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 			isa = PBXGroup;
 			children = (
 				7F51EFD82B8381AC00D0E70D /* CupcakeCornerApp.swift */,
+				7FE07D1A2B9727E30046E582 /* String-EmptyChecking.swift */,
 				7F389A692B84A17C00E985EE /* View */,
 				7F389A6A2B84A18F00E985EE /* Data */,
 				7F51EFDC2B8381AE00D0E70D /* Assets.xcassets */,
@@ -166,6 +169,7 @@
 				7F389A6E2B84A80000E985EE /* AddressView.swift in Sources */,
 				7F389A702B84ABF900E985EE /* CheckoutView.swift in Sources */,
 				7F51EFDB2B8381AC00D0E70D /* ContentView.swift in Sources */,
+				7FE07D1B2B9727E30046E582 /* String-EmptyChecking.swift in Sources */,
 				7F51EFD92B8381AC00D0E70D /* CupcakeCornerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
